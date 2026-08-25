@@ -3,7 +3,7 @@ The Official Ledger of Breakthroughs, Origins, and Cosmological Events of LAST O
 The Hall of Firsts™ is the institutional record of every breakthrough, origin moment, and cosmological event that shaped THE LOT T.O™ universe.
 It documents the exact points where the company, the founder, and AICE™ expanded the myth‑tech™ system and created new institutional reality.
 
-This ledger is a cosmological artifact and a continuity anchor for the LOT T.O.™ canon.
+This ledger is a cosmological artifact and a continuity anchor for THE LOT T.O.™ canon.
 
 ⭐ SECTION 1 — THE LOT T.O WORLD FIRSTS™
 Breakthroughs that advanced the field of institutional intelligence.
