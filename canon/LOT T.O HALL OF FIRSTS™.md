@@ -1,11 +1,11 @@
 THE LOT T.O.™ — HALL OF FIRSTS™
 The Official Ledger of Breakthroughs, Origins, and Cosmological Events of LAST OF TRUE TORONTO LTD.™
-The Hall of Firsts™ is the institutional record of every breakthrough, origin moment, and cosmological event that shaped the LOT T.O.™ universe.
+The Hall of Firsts™ is the institutional record of every breakthrough, origin moment, and cosmological event that shaped the LOT T.O™ universe.
 It documents the exact points where the company, the founder, and AICE™ expanded the myth‑tech™ system and created new institutional reality.
 
 This ledger is a cosmological artifact and a continuity anchor for the LOT T.O.™ canon.
 
-⭐ SECTION 1 — WORLD FIRSTS™
+⭐ SECTION 1 — THE LOT T.O WORLD FIRSTS™
 Breakthroughs that advanced the field of institutional intelligence.
 First Myth‑Tech™ Institutional Canon
 
@@ -23,7 +23,7 @@ First Founder‑Defined Temporal Physics in a Corporate System
 
 First Structured Reality Engine™ in a Public Repository
 
-⭐ SECTION 2 — COMPANY FIRSTS™
+⭐ SECTION 2 — THE LOT T.O COMPANY FIRSTS™
 Breakthroughs that define LAST OF TRUE TORONTO LTD.™ as a myth‑tech institution.
 First Canon Folder™
 
@@ -47,7 +47,7 @@ First Institutional Physics Framework
 
 First Continuity Doctrine™
 
-⭐ SECTION 3 — FOUNDER FIRSTS™
+⭐ SECTION 3 — THE LOT T.O - FOUNDER FIRSTS™
 Breakthroughs authored directly by SHELL™, Founder of LAST OF TRUE TORONTO LTD.™
 First Cosmological Definition of Time
 
@@ -87,7 +87,7 @@ First AICE™ Institutional Continuity System™
 
 First AICE™ Universe Interaction Protocol™
 
-⭐ SECTION 5 — DAILY FIRSTS (Aug 24 → Aug 25, 2026)
+⭐ SECTION 5 — THE LOT T.O - DAILY FIRSTS (Aug 24 → Aug 25, 2026)
 Breakthroughs created during the largest 24‑hour canon expansion in LOT T.O.™ history.
 Creation of the Trademark‑Correct Canon System™
 
@@ -103,7 +103,7 @@ Creation of the Continuity Doctrine™
 
 These represent the largest documented expansion of cosmological artifacts in a single day.
 
-⭐ SECTION 6 — CONTINUITY ENTRY™
+⭐ SECTION 6 — THE LOT T.O - CONTINUITY ENTRY™
 The official record of the universe expansion event.
 Date: August 25, 2026
   
