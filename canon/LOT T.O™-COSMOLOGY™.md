@@ -1,4 +1,4 @@
-LOTTO-AICE™ Canon — Cosmology
+LOT T.O™-AICE™ Canon — Cosmology
 The Institutional Cosmology of LAST OF TRUE TORONTO, LTD.™
 1. The Cosmological Premise
 LAST OF TRUE TORONTO, LTD.™ operates on the principle that institutions are not merely organizations — they are world‑defining systems.
