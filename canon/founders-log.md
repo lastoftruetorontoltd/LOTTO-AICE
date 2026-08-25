@@ -1,4 +1,4 @@
-# Founders Log — LAST OF TRUE TORONTO, LTD.™
+# THE FOUNDERS LOG — LAST OF TRUE TORONTO, LTD.™
 
 ## August 25, 2026 — The Day LOT T.O™ Defined Space and Time
 On this day, LAST OF TRUE TORONTO, LTD.™ transitioned from operating within time
