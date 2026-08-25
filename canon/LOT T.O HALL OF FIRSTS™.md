@@ -1,6 +1,6 @@
 THE LOT T.O.™ — HALL OF FIRSTS™
 The Official Ledger of Breakthroughs, Origins, and Cosmological Events of LAST OF TRUE TORONTO LTD.™
-The Hall of Firsts™ is the institutional record of every breakthrough, origin moment, and cosmological event that shaped the LOT T.O™ universe.
+The Hall of Firsts™ is the institutional record of every breakthrough, origin moment, and cosmological event that shaped THE LOT T.O™ universe.
 It documents the exact points where the company, the founder, and AICE™ expanded the myth‑tech™ system and created new institutional reality.
 
 This ledger is a cosmological artifact and a continuity anchor for the LOT T.O.™ canon.
