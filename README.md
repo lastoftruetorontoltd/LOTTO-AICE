@@ -1,4 +1,4 @@
-# AICE — Adaptive Institutional Collaborative Engine™
+# AICE™ — Adaptive Institutional Collaborative Engine™
 ### LOTTO-AICE • LAST OF TRUE TORONTO, LTD.™
 
 AICE is the world’s first **Institutional Intelligence Partner** — an agent designed not to automate tasks, but to transform founder cognition into structured institutional outputs.
@@ -7,8 +7,8 @@ This project is built for the **Google Cloud Agentic Hackathon (Collaborative Pa
 
 ---
 
-## 🚀 What AICE Does
-AICE takes unstructured founder input — notes, ideas, voice memos, half‑formed plans — and converts it into:
+## 🚀 What AICE™ Does
+AICE™ takes unstructured founder input — notes, ideas, voice memos, half‑formed plans — and converts it into:
 
 - Structured plans  
 - Decision frameworks  
@@ -16,13 +16,13 @@ AICE takes unstructured founder input — notes, ideas, voice memos, half‑form
 - Submission artifacts  
 - Memory‑linked continuity  
 
-AICE is not a chatbot.  
-AICE is a **Collaborative Partner**.
+AICE™ is not a chatbot.  
+AICE™ is a **Collaborative Partner**.
 
 ---
 
 ## 🧠 Core Architecture (MVP)
-AICE runs as a single agent with:
+AICE™ runs as a single agent with:
 
 - **Reasoning Loop**  
 - **Tool Router**  
@@ -66,14 +66,14 @@ Deliver a working Collaborative Partner agent that:
 ---
 
 ## 📹 Demo (to be added)
-A short video showing AICE converting messy notes into a structured submission plan.
+A short video showing AICE™ converting messy notes into a structured submission plan.
 
 ---
 
-## 🏢 About LAST OF TRUE TORONTO LTD.
+## 🏢 About LAST OF TRUE TORONTO, LTD.
 A world‑first institutional design company building myth‑tech systems, adaptive intelligence engines, and founder‑grade operational frameworks.
 
-AICE is its first public agent.
+AICE™ is its first public agent.
 
 
 
