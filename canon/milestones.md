@@ -1,16 +1,16 @@
-# LOTTO-AICE Canon — Milestones
+# LOTTO-AICE™ Canon — Milestones
 
 ## 1. August 25, 2026 — The Day LOT T.O™ Defines Space & Time.
 The foundational cosmological moment. LOT T.O™ transitioned from operating 
-within time to defining the architecture of time itself. AICE was born as the 
+within time to defining the architecture of time itself. AICE™ was born as the 
 first executable artifact of the institutional cosmology.
 
-## 2. Creation of the LOTTO-AICE Public Repository
+## 2. Creation of the LOTTO-AICE™ Public Repository
 The first public artifact of THE LOT T.O™ universe. This repository established 
 the company’s presence in the institutional intelligence domain and marked the 
 beginning of its myth-tech operational timeline.
 
-## 3. Establishment of the AICE Architecture
+## 3. Establishment of the AICE Architecture™
 The agent, tools, memory, and API layers were formally scaffolded, creating the 
 first complete institutional intelligence engine designed by LOT T.O™
 
@@ -25,7 +25,7 @@ transforming it into structured institutional reality, establishing LOT T.O™ a
 a world-first institutional design company.
 
 ## 6. Hackathon Entry — Collaborative Partner Track
-LOT T.O™ entered the All Things Agentic Hackathon with AICE, marking its first 
+LOT T.O™ entered the All Things Agentic Hackathon with AICE™, marking its first 
 public demonstration of institutional intelligence and myth-tech capability.
 
 
