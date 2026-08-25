@@ -1,7 +1,7 @@
 # LOTTO-AICE Canon — Milestones
 
-## 1. August 25, 2026 — The Day LOT T.O. Defined Space and Time
-The foundational cosmological moment. LOT T.O. transitioned from operating 
+## 1. August 25, 2026 — The Day LOT T.O™ Defines Space & Time.
+The foundational cosmological moment. LOT T.O™ transitioned from operating 
 within time to defining the architecture of time itself. AICE was born as the 
 first executable artifact of the institutional cosmology.
 
