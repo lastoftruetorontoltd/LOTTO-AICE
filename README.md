@@ -70,7 +70,7 @@ A short video showing AICE™ converting personal messy notes + research into a 
 
 ---
 
-## 🏢 About LAST OF TRUE TORONTO, LTD.
+## 🏢 About LAST OF TRUE TORONTO, LTD.™
 A world‑first institutional design company building myth‑tech systems, adaptive intelligence engines, and founder‑grade operational frameworks.
 
 AICE™ is its first public agent.
