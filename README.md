@@ -1,7 +1,7 @@
 # AICE™ — Adaptive Institutional Collaborative Engine™
 ### LOTTO-AICE™ • LAST OF TRUE TORONTO, LTD.™
 
-AICE is the world’s first **Institutional Intelligence Partner** — an agent designed not to automate tasks, but to transform founder cognition into structured institutional outputs.
+AICE™ is the world’s first **Institutional Intelligence Partner** — an agent designed not to automate tasks, but to transform founder cognition into structured institutional outputs.
 
 This project is built for the **Google Cloud Agentic Hackathon (Collaborative Partner Track)**.
 
