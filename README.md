@@ -66,7 +66,7 @@ Deliver a working Collaborative Partner agent that:
 ---
 
 ## 📹 Demo (to be added)
-A short video showing AICE™ converting messy notes into a structured submission plan.
+A short video showing AICE™ converting personal messy notes + research into a structured submission plan.
 
 ---
 
